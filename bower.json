@@ -1,0 +1,23 @@
+{
+  	"name": "Password Manager App",
+  	"version": "1.0.0",
+  	"dependencies": {
+    	"components-font-awesome": "~4.0.3",
+    	"bootstrap": "~3.1.1",
+    	"jquery": "~1.10.2"
+  	},
+  	"homepage": "https://github.com/daswort/Password-Manager-App",
+  	"authors": [
+    	"daswort"
+  	],
+  	"description": "passwords manager",
+  	"license": "MIT",
+  	"ignore": [
+    	"**/.*",
+    	"node_modules",
+    	"bower_components",
+    	"./app/assets/bower",
+    	"test",
+    	"tests"
+  	]
+}

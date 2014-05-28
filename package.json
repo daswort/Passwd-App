@@ -1,0 +1,28 @@
+{
+  "name": "passwd-app",
+  "version": "0.0.1",
+  "description": "[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework) [![License](https://poser.pugx.org/laravel/framework/license.png)](https://packagist.org/packages/laravel/framework)",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daswort/Password-Manager-App.git"
+  },
+  "keywords": [
+    "Laravel"
+  ],
+  "author": "daswort",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/daswort/Password-Manager-App/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-less": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-phpunit": "~0.3.3"
+  }
+}
